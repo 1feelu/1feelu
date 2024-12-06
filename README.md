@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/system-coding-restarting-968hx9948xr14n8u.webp" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/2c/5d/76/2c5d7674063b252e116d1b51a423a5aa.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">Hello 👋, My name is Alexander!</h1>
