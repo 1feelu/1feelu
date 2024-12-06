@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello 👋, My name is Alexander!</h1>
 <p align="center">
-  <a href="https://t.me/lzt_1feelu">
+  <a href="https://t.me/lzt_cardinal">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
