@@ -10,7 +10,7 @@
 </p>
 
 <div align="center" dir="auto">
-  <img src="https://komarev.com/ghpvc/?username=1feelu&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Card1nal-lzt&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -66,7 +66,7 @@ I am a beginner Backend developer whose story in IT began in childhood, when I c
 ---
 
 ### 📊 My statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1feelu&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Card1nal-lzt&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1feelu&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Card1nal-lzt&layout=compact&theme=dark)
 
